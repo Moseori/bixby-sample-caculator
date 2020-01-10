@@ -1,0 +1,7 @@
+enum (Operator) {
+  description (__DESCRIPTION__)
+  symbol (plus)
+  symbol (minus)
+  symbol (multiply)
+  symbol (division)
+}

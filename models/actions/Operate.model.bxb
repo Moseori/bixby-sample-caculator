@@ -1,0 +1,19 @@
+action (Operate) {
+  type (Calculation)
+  description (__DESCRIPTION__)
+  collect {
+    input (leftOperand) {
+      type (LeftOperand)
+      min (Required) max (One)
+    }
+    input (rightOperand) {
+      type (RightOperand)
+      min (Required) max (One)
+    }
+    input (operator) {
+      type (Operator)
+      min (Required) max (One)
+    }
+  }
+  output (Result)
+}

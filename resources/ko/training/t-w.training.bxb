@@ -1,0 +1,10 @@
+train (t-w0eec5brga9er7xq5bpwd19gt) {
+  utterance ("[g:Operate] (3)[v:LeftOperand] (더하기)[v:Operator:plus] (5)[v:RightOperand]는?")
+  plan (Y2BlkMjNL07NL8rUS05MLs1JLMkv0gtKLS7NKWGQxJTxL0gtSixJZZDFlPJJTSsBS+elMEjh0plfxCCHxb7M9Ay4XhYGRgYmBmYgzQBkQSAMIMkBAA==)
+  last-modified (1578294382354)
+}
+train (t-wn1pxkhzpgcjxup2i6b6unged) {
+  utterance ("[g:Operate] (4)[v:LeftOperand] (나누기)[v:Operator:division] (1)[v:RightOperand]은 ?")
+  plan (Y2BlkMjNL07NL8rUS05MLs1JLMkv0gtKLS7NKWGQxJTxL0gtSixJZZDFlPJJTSsBS+elMEjh0plfxCCHxb7M9Ay4XhYGRgYmBmYgzQBkQSAMIMkBAA==)
+  last-modified (1578294282403)
+}

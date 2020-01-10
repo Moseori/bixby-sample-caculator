@@ -1,0 +1,3 @@
+integer (LeftOperand) {
+  description (__DESCRIPTION__)
+}
